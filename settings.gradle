@@ -1,1 +1,1 @@
-include ':app', ':FacadePattern'
+include ':app', ':FacadePattern', ':FactoryPattern', ':adapterpattern'

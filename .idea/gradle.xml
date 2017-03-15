@@ -9,6 +9,8 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/FacadePattern" />
+            <option value="$PROJECT_DIR$/FactoryPattern" />
+            <option value="$PROJECT_DIR$/adapterpattern" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
